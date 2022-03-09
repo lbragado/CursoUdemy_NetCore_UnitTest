@@ -57,7 +57,6 @@ namespace Library
         public void Message(string message)
         {
             //Esta clase FAKE no hace nada para no influir en nuestras pruebas 
-            //Console.WriteLine(message);
         }
     }
 }
